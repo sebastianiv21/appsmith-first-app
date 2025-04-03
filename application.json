@@ -6,8 +6,36 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Delivery Tracker",
+      "isDefault": false
+    },
+    {
+      "id": "Restaurant Partners",
+      "isDefault": false
+    },
+    {
+      "id": "Driver Information",
+      "isDefault": false
+    },
+    {
+      "id": "View Applications",
+      "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": false
+    },
+    {
+      "id": "User Managment",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ]
 }

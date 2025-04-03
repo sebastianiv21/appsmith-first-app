@@ -1,0 +1,58 @@
+{
+  "allowClustering": true,
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 77,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultMarkers": "{{\nappsmith.store.mapCoords\n}}",
+  "displayName": "Map",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    },
+    {
+      "key": "defaultMarkers"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableCreateMarker": false,
+  "enablePickLocation": false,
+  "enableSearch": false,
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.ddde7d1b6b4d64050fde21a347260464.svg",
+  "isClickedMarkerCentered": true,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "qg8nwv3njl",
+  "leftColumn": 0,
+  "mapCenter": {
+    "lat": 30.267153,
+    "long": -97.7430608,
+    "title": "Austin, TX, USA"
+  },
+  "minWidth": 450,
+  "mobileBottomRow": 54,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 14,
+  "originalBottomRow": 56,
+  "originalTopRow": 0,
+  "parentColumnSpace": 12.6474609375,
+  "parentId": "k6ooi0ffgl",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 35,
+  "topRow": 18,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "abj31ovibr",
+  "widgetName": "map_main",
+  "zoomLevel": 70
+}
